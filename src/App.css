@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: content-box;
+}
+.firstInput{
+  width: 200px;
+  height: 30px;
+  align-items: center;
+  justify-content: center;
+}
+
+
